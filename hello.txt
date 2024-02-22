@@ -17,5 +17,6 @@ hello git
 hello git
 hello git
 hello git master test
+hello git hot-fix test
 hello git123445
 hello git555555
